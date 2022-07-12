@@ -1,4 +1,4 @@
-# Udacity Project : Write a Data Scientist Blog Post
+# Udacity Project 1: Write a Data Scientist Blog Post
 
 ## Udacity Data Scientist  Nanodegree
 
